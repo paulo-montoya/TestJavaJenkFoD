@@ -1,4 +1,4 @@
-/* This is a simple Java program.
+/* This is a simple Java program for testing.
    FileName : "HelloWorld.java". */
 class HelloWorld
 {
